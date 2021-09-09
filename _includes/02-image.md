@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of harish](https://github.com/uptownaravi/uptownaravi/blob/main/digitalPic.jpg)
